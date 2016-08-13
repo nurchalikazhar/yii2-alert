@@ -1,0 +1,21 @@
+{
+    "name": "chalik/yii2-alert",
+    "description": "Widget twitter boostrap for Yii framework 2.0",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension","alert"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Nur Chalik Azhar",
+            "email": "chalikazhar@outlook.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "chalik\\alert\\": ""
+        }
+    }
+}
